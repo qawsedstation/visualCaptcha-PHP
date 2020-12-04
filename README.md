@@ -47,7 +47,7 @@ vendor/bin/phpunit
 
 # integration-with-for-Lead-Gen-for-Build-Forms
 
-[Integration with lead generation. Build forms tool](https://leadgenapp.io)
+Build forms tool with [LeadGenApp](https://leadgenapp.io)
 
 This is where you can use this plugin in combination with LeadGenForm. You can build very quickly forms using a smart form builder. They even have invisible re-Captcha
 
