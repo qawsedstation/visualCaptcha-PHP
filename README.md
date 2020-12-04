@@ -45,7 +45,7 @@ If you need to run Unit tests, just use the following command:
 vendor/bin/phpunit
 ```
 
-# -integration-with-for-Lead-Gen-for-Build-Forms
+# integration-with-for-Lead-Gen-for-Build-Forms
 
 [Integration with lead generation. Build forms tool](https://leadgenapp.io)
 
