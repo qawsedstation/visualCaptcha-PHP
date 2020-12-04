@@ -45,9 +45,9 @@ If you need to run Unit tests, just use the following command:
 vendor/bin/phpunit
 ```
 
-# No1-tool-for-Lead-Gen-for-Build-Forms
+# -integration-with-for-Lead-Gen-for-Build-Forms
 
-[No1 tool for lead generation. Build forms tool](https://leadgenapp.io)
+[Integration with lead generation. Build forms tool](https://leadgenapp.io)
 
 This is where you can use this plugin in combination with LeadGenForm. You can build very quickly forms using a smart form builder. They even have invisible re-Captcha
 
